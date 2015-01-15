@@ -1,0 +1,12 @@
+F:\c#\project\BookshopClerk\BookshopClerk\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\c#\project\BookshopClerk\BookshopClerk\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\c#\project\BookshopClerk\BookshopClerk\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\c#\project\BookshopClerk\BookshopClerk\bin\Debug\BookshopClerk.exe
+F:\c#\project\BookshopClerk\BookshopClerk\bin\Debug\BookshopClerk.pdb
+F:\c#\project\BookshopClerk\BookshopClerk\obj\x86\Debug\BookshopClerk.exe
+F:\c#\project\BookshopClerk\BookshopClerk\obj\x86\Debug\BookshopClerk.pdb
+F:\c#\project\BookshopClerk\BookshopClerk\obj\x86\Debug\BookShopSystem.frmlogin.resources
+F:\c#\project\BookshopClerk\BookshopClerk\obj\x86\Debug\BookShopSystem.frmchangepassword.resources
+F:\c#\project\BookshopClerk\BookshopClerk\obj\x86\Debug\BookShopSystem.frm_Clerk.resources
+F:\c#\project\BookshopClerk\BookshopClerk\obj\x86\Debug\BookShopSystem.frm_Manager.resources
+F:\c#\project\BookshopClerk\BookshopClerk\obj\x86\Debug\BookShopSystem.Properties.Resources.resources

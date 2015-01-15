@@ -1,0 +1,2 @@
+manager 111111
+clerk 111111
